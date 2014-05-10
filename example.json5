@@ -1,5 +1,6 @@
+// お祝い用のjson
 {
-  // test comment
-  "message" : "Hello world"
+  // お祝いの言葉を入れる
+  "message" : "congrats 2nd anniversery!!!"
 }
 

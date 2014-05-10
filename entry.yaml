@@ -1,6 +1,6 @@
 -
   request:
-    url: /test/:id
+    url: /test/greetings
     method: GET
   response:
     status: 200
