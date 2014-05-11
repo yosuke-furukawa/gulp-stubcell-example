@@ -20,7 +20,10 @@ gulp.task('connect', function() {
 });
 
 gulp.task('stubcell', function() {
-  stubcell.start();
+  stubcell.start({
+
+    basepath: 'api/'
+  });
 });
 
 gulp.task('default', ['connect', 'stubcell']);

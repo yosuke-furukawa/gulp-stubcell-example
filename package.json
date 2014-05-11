@@ -9,9 +9,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "proxy-middleware": "~0.5.0",
-    "gulp-stubcell": "0.0.2",
     "gulp": "~3.6.2",
-    "gulp-connect": "~2.0.5"
+    "gulp-connect": "~2.0.5",
+    "gulp-stubcell": "^0.2.0",
+    "proxy-middleware": "~0.5.0"
   }
 }
